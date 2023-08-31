@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "129503192954",
+    "project_id": "fir-chat-95035",
+    "storage_bucket": "fir-chat-95035.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129503192954:android:419b387d1a428a7ec358c3",
+        "android_client_info": {
+          "package_name": "com.example.texting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129503192954-igtk2rp7dtb1omfk0pdgrg3evsfbuskj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDPaYjxW1Q174CvTRIExnruWxexKZOrsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129503192954-gftcen45md0g6phc4sl6o7nft052cg74.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "129503192954-44fisn03fddemfmt7ki05ndf45f8ahs0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.texting.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
